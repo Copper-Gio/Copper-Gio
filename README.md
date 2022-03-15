@@ -14,9 +14,11 @@
 - - SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
-- - instagram: [@giorgio_rame](https://www.instagram.com/giorgio_rame/)
-- - linkedin:
-- - facebook: [Giorgio Ramezzana](https://www.facebook.com/giorgio.ramezzana)
+- - Instagram: [@giorgio_rame](https://www.instagram.com/giorgio_rame/)[📷](https://www.instagram.com/giorgio_rame/)
+- - Linkedin:
+- - Facebook: [Giorgio Ramezzana](https://www.facebook.com/giorgio.ramezzana)
+- > caio
+
 <!---
 Copper-Gio/Copper-Gio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

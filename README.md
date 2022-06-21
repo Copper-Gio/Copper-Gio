@@ -15,7 +15,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 - - Instagram: [@giorgio_rame](https://www.instagram.com/giorgio_rame/)[📷](https://www.instagram.com/giorgio_rame/)
-- - Linkedin:
+- - Linkedin: [Giorgio Ramezzana](https://www.linkedin.com/in/giorgio-ramezzana-8ba947240/)
 - - Facebook: [Giorgio Ramezzana](https://www.facebook.com/giorgio.ramezzana)
 <!---
 Copper-Gio/Copper-Gio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

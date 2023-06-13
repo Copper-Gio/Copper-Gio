@@ -5,13 +5,18 @@
 - - cybersecurity
 - 📚 I have studied
 - - html
-- 🌱 I’m currently learning
 - - java
 - - css
 - - javascript
 - - php
 - - python
 - - SQL
+- 📜 I'm certified
+- - ITE
+- - PCAP
+- - CCNA
+- 🌱 I’m currently learning
+- - CCNP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 - - Instagram: [@giorgio_rame](https://www.instagram.com/giorgio_rame/)[📷](https://www.instagram.com/giorgio_rame/)
